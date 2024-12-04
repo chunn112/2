@@ -57804,8 +57804,8 @@ analytics-*.aasaam.com
 ||scdnx.com^
 ||byteicdn.com^
 ||tiktokcdn-us.com^
-||*.tiktokcdn-us.com
-||*.ttlivecdn.com.c.bytefcdn-oversea.com
-||*.ttlivecdn.com
-||*.ibytedtos.com
-||*.ibyteimg.com
+||*.tiktokcdn-us.com^
+||*.ttlivecdn.com.c.bytefcdn-oversea.com^
+||*.ttlivecdn.com^
+||*.ibytedtos.com^
+||*.ibyteimg.com^
